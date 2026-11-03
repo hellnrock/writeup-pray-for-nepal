@@ -1,1 +1,0 @@
-# writeup-pray-for-nepal
