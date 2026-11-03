@@ -2,7 +2,7 @@
 
 Write-up of Intigriti’s “Pray For Nepal” challenge — DOM Clobbering XSS.
 
-**Live version:** [https://hellnrock.github.io/writeup-pray-for-nepal/](https://hellnrock.github.io/writeup-pray-for-nepal/)
+**Live version:** https://labs.hellnrock.com/writeups/pray-for-nepal)
 
 ## Summary
 
